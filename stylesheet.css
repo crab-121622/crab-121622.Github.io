@@ -49,6 +49,10 @@ a {
   opacity: 0.8;
 }
 
+.btn:hover {
+  opacity: 1;
+}
+
 .signup {
   margin: 15px 0 15px 0;
   background-color: #239b76;
